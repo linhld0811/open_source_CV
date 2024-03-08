@@ -10,8 +10,8 @@ Category:
 Input:
 text/audio + facical expression
 
-Metric:
-Quality:
+<h2>Metric</h2>:
+<h3>Quality</h3>:
 - PSNR: metric to measure the similarity between the generated video frames and the ground truth frames
 - SSIM: assesses the structural similarity between the generated and ground truth frames by considering luminance, contrast, and structural information
 - Cosine Similarity (CSIM): CSIM is employed to evaluate identity preservation in the frames that have been generated.
