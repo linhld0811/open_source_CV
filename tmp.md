@@ -11,7 +11,7 @@ Input:
 text/audio + facical expression
 
 <h2>Metric:</h2>
-- PSNR: metric to measure the similarity between the generated video frames and the ground truth frames
+* PSNR: metric to measure the similarity between the generated video frames and the ground truth frames
 - SSIM: assesses the structural similarity between the generated and ground truth frames by considering luminance, contrast, and structural information
 - Cosine Similarity (CSIM): CSIM is employed to evaluate identity preservation in the frames that have been generated.
 - FID: measures the distance between the feature representations of the generated and real video frames extracted from a pre-trained Inception network
