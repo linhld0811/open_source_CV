@@ -1,5 +1,5 @@
 
-<h2>Metric:</h2>
+##Metric:
 - **PSNR **<br>
 - Peak Signalto-Noise Ratio*: metric to measure the similarity between the generated video frames and the ground truth frames <br>
 - **SSIM(&#8593;) - Structure Similarity**: assesses the structural similarity between the generated and ground truth frames by considering luminance, contrast, and structural information <br>
