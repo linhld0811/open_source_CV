@@ -2,7 +2,7 @@
 ## Metric:
 1. Reference Quality assessment
 - **PSNR(&#8593;) Peak Signalto-Noise Ratio**: metric to measure the similarity between the generated video frames and the ground truth frames <br>
-- **LPIPS(&#8595;) - Learned Perceptual Image Patch Similarity** <br>
+- **LPIPS(&#8595;) - Learned Perceptual Image Patch Similarity** - [Code](https://github.com/richzhang/PerceptualSimilarity)<br>
 - **SSIM(&#8593;) - Structure Similarity**: assesses the structural similarity between the generated and ground truth frames by considering luminance, contrast, and structural information <br>
 - **FID(&#8595;) - Frechet Inception Distance** - [Code](https://github.com/Po-Hsun-Su/pytorch-ssim): measures the distance between the feature representations of the generated and real video frames extracted from a pre-trained Inception network <br>
 - **MS-SSIM(&#8593;) - Multi-Scale Structure Similarity** <br>
