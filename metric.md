@@ -21,4 +21,4 @@
 - **AUE- Action Units Error**
 - **Beat Align Score(&#8593;)**: used to evaluate the alignment between the audio and the generated head motions. represents a score that quantifies the synchronization of beats between the audio and the generated head motions. <br>
 - **CAPP(&#8593;) - Contrastive Audio and Pose Pretraining**: using pose sequence encoder and an audio sequence encoder and predict whether the input pose sequence and audio are paired <br>
-- **Sc(&#8593;) & Sd(&#8595;)-confidence score and feature distance extract from Syncnet**:assess the alignment of the input audio with the generated lip movements in videos
+- **Sc(&#8593;) & Sd(&#8595;)-confidence score and feature distance extract from Syncnet** - [Code](https://github.com/joonson/syncnet_python): assess the alignment of the input audio with the generated lip movements in videos
