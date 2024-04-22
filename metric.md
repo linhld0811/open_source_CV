@@ -13,11 +13,12 @@
 - **IS - Inception Score**: assesses the quality and diversity of the generated images by leveraging the output of a pre-trained Inception network. <br>
 - **Standard Deviation of Head Motion Feature Embeddings(&#8593;)**: assesses the diversity of the generated head motions. extracted from the generated frames using Hopenet <br>
 - **CPBD(&#8593;) - Cumulative Probability Blur Detection**: assess image quality by detecting blur. <br>
+- **FVD(&#8595;) - Fréchet Video Distance**: evaluate the generated video quality
 3. Synchronization Assessment
 - **LSE-D(&#8595;) - Lip Shape Evaluation - Distance Score**: evaluates the perceptual differences in lip shape between the generated frames and a reference method <br>
 - **LSE-C(&#8593;) - Lip Shape Evaluation - Confidence Score/ Lip Sync Error - Confidence**: assesses the confidence in the generated lip shapes. It represents the confidence score associated with the lip shape generation. <br>
 - **LMD(&#8595;) - Landmark Distance**:  evaluate whether the synthesized video corresponds to accurate lip movements based on the input audio <br>
 - **AUE(&#8595;) - Action Units Error**
 - **Beat Align Score(&#8593;)**: used to evaluate the alignment between the audio and the generated head motions. represents a score that quantifies the synchronization of beats between the audio and the generated head motions. <br>
-
+- **CAPP(&#8593;) - Contrastive Audio and Pose Pretraining**: using pose sequence encoder and an audio sequence encoder and predict whether the input pose sequence and audio are paired <br>
 
