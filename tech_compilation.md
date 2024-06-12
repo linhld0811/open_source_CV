@@ -24,3 +24,14 @@
 - [image-super-resolution](https://github.com/idealo/image-super-resolution)
 # Frame Interpolation
 - [RIFE](https://github.com/hzwer/ECCV2022-RIFE)[ECCV2022]: Real-Time Intermediate Flow Estimation for Video Frame Interpolation
+# Face Swap
+- [faceswap](https://github.com/deepfakes/faceswap)
+- [facefusion](https://github.com/facefusion/facefusion)
+- [roop](https://github.com/s0md3v/roop)
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
+- [inswapper](https://github.com/haofanwang/inswapper)
+# Diffusion 
+- [HiDiffusion](https://github.com/megvii-research/HiDiffusion): ControlNet including text-to-image, image-to-image; Inpainting
+- [InstantStyle](https://github.com/InstantStyle/InstantStyle): Text-to-Image Generation
+- [InstantID](https://github.com/InstantID/InstantID): ID-Preserving generation
+- 
