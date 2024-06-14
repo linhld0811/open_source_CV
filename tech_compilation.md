@@ -30,6 +30,8 @@
 - [roop](https://github.com/s0md3v/roop)
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
 - [inswapper](https://github.com/haofanwang/inswapper)
+# Face Reenactment
+- [Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)[CVPR2022]
 # Diffusion 
 - [HiDiffusion](https://github.com/megvii-research/HiDiffusion): ControlNet including text-to-image, image-to-image; Inpainting
 - [InstantStyle](https://github.com/InstantStyle/InstantStyle): Text-to-Image Generation
